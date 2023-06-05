@@ -5,6 +5,9 @@
 - [ ] Create a smart album for unnamed faces
 - [ ] Manually add a face to a photo
 - [ ] “When you wake up" medication reminder instead of a strict time.
+- [ ] Locks screen widgets for iPad
+- [ ] 3rd party Apple Watch faces
+- [ ] Apple watch streak rest day
 
 ### Developer
 - [ ] Equal Heights CollectionView Groups Using `UICollectionViewCompositionalLayout`
