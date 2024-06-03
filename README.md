@@ -45,5 +45,6 @@
 - [ ] A target to check if running on Xcode Previews
 - [ ] Swift Data equivalent of `NSFetchedResultsController`
 - [ ] 3rd Party VisionOS environments
+- [ ] Pausable timer API
 
 
