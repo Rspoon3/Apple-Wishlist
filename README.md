@@ -9,8 +9,9 @@
 - [ ] 3rd party Apple Watch faces
 - [ ] Apple watch streak rest day
 - [ ] An intelligent Siri
-- [ ] iPad calulator app
+- [ ] iPad calculator app
 - [ ] Add chest circumference to the Health app
+- [ ] Ability to movie visionOS app icons
 
 ### Developer
 - [x] ~Equal Heights CollectionView Groups Using `UICollectionViewCompositionalLayout`~
@@ -46,5 +47,6 @@
 - [ ] Swift Data equivalent of `NSFetchedResultsController`
 - [ ] 3rd Party VisionOS environments
 - [ ] Pausable timer API
+- [ ] A way to specify that only certain `CodingKeys` are different
 
 
